@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Load</key>
+	<array>
+		<string>( ﾟдﾟ) 来不及解释了 快上车</string>
+		<string>( ・_ゝ・) 你不能让我加载 我就加载</string>
+		<string>niconiconi~</string>
+		<string>ﾟ ∀ﾟ)ノ 挖坟中</string>
+		<string>(=ﾟωﾟ)=旦 喝杯茶冷静一下</string>
+		<string>@&quot;(￣ω￣) 匹配弹幕中&quot;</string>
+	</array>
+	<key>Error</key>
+	<array>
+		<string>_(:3」∠)_ 断网了</string>
+	</array>
+</dict>
+</plist>
